@@ -1,0 +1,3 @@
+# tesgit
+
+ini adalah readme
